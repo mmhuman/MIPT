@@ -1,0 +1,227 @@
+SPb State University 
+SPb ITMO University 
+Moscow Institute of Physics and Technology 
+SPb ITMO University 
+Ural Federal University 
+Perm State University 
+Moscow Institute of Physics and Technology 
+SPb State University 
+Belarusian SU of Information and Radioelectron. 
+Vilnius University 
+Novosibirsk State University 
+SPb Academic University 
+SPb Academic University 
+Latvia University 
+Moscow Institute of Physics and Technology 
+Saratov State University 
+Yerevan State University 
+Perm State University 
+Ural Federal University 
+Moscow Institute of Physics and Technology 
+Samara National Research University 
+Tomsk Polytechnic University 
+Petrozavodsk State University 
+Saratov State University 
+Moscow State University 
+Higher School of Economics 
+Moscow State University 
+Moscow Aviation Institute 
+Belarusian State University 
+Tartu University 
+SPb State University 
+Rybinsk State Aviation Technical University 
+Latvia University 
+Saratov State University 
+Moscow Institute of Physics and Technology 
+SPb Academic University 
+Immanuel Kant Baltic Federal University 
+Higher School of Economics 
+Volgograd State Technical University 
+Belarusian State University 
+Moscow Aviation Institute 
+SPb ITMO University 
+SPb State University 
+South Ural State University 
+Izhevsk State Technical University 
+SPb State University 
+Ural Federal University 
+South Ural State University 
+Free University of Tbilisi 
+Belarusian State University 
+SPb ITMO University 
+NU of Science and Technology MISiS 
+Far Eastern State Transportation University 
+Yaroslavl State University 
+Higher School of Economics 
+Qafqaz University 
+Higher School of Economics 
+Kazakh-British Technical University 
+Moscow Institute of Physics and Technology 
+Orenburg State University 
+Voronezh State University 
+Belarusian SU of Information and Radioelectron. 
+American University of Armenia 
+Kazakh-British Technical University 
+International IT University 
+Voronezh State University 
+Belarusian State University 
+Ulyanovsk State Technical University 
+Astrakhan State University 
+International ATATURK-ALATOO University 
+Moscow State University 
+Tyumen Industrial University 
+Ural Federal University 
+Tyumen State University 
+Free University of Tbilisi 
+Crimean Federal University 
+Higher School of Economics 
+Ural Federal University 
+Udmurt State University 
+Kazakh-British Technical University 
+Samara National Research University 
+Ufa State Aviation Technical University 
+International Black Sea University 
+Russian-Armenian 
+Altai State Technical University 
+NU of Science and Technology MISiS 
+Kazakh-British Technical University 
+Yerevan State University 
+Russian-Armenian 
+Kazakh-British Technical University 
+Nazarbayev University 
+Kazakhstan Branch of Moscow State University 
+Nazarbayev University 
+Vyatka State University 
+Moscow Engineering Physics Institute 
+Nazarbayev University 
+Skolkovo I of Science and Technology 
+Saratov State University 
+Suleyman Demirel University 
+Kazakh National University named Al-Farabi 
+Kaunas University of Technology 
+Tomsk State University 
+Vologda State University 
+Tomsk State University of Control Systems and Radioelectronics 
+Kazan Federal University 
+Yerevan State University 
+Free University of Tbilisi 
+Belarusian SU of Information and Radioelectron. 
+South Ural State University 
+Buryat State University 
+Izhevsk State Technical University 
+Qafqaz University 
+Bauman Moscow State Technical University 
+Siberian State University of Telecommunication & Informatics 
+Perm Higher School of Economics 
+Alexander Pushkin Brest State University 
+Tomsk State University 
+Ufa State Aviation Technical University 
+Nizhny Novgorod State Technical University 
+Omsk State University 
+Novosibirsk State University 
+Kazan Federal University 
+Irkutsk State Technical University 
+French-Georgian Institute 
+North-Eastern Federal University 
+Mordovian State University 
+Chelyabinsk State University 
+Samara National Research University 
+Eurasian National University named L.N. Gumilev 
+Suleyman Demirel University 
+Altai State Technical University 
+Free University of Tbilisi 
+Altai State Technical University 
+Southern FU Institute of CompTech and InfoSec 
+Nazarbayev University 
+I. Javakhishvili Tbilisi State University 
+Novosibirsk State University 
+International IT University 
+Izhevsk State Technical University 
+Tomsk Polytechnic University 
+Tomsk Polytechnic University 
+Kutaisi State University 
+Buryat State University 
+American University - Central Asia 
+East-Siberian State Technological University 
+Far Eastern Federal University 
+Eurasian National University named L.N. Gumilev 
+I. Javakhishvili Tbilisi State University 
+Moscow State University - Tashkent 
+Orel State University 
+South Ural State University 
+Novosibirsk State University 
+Petrozavodsk State University 
+Suleyman Demirel University 
+Crimean Federal University 
+Eurasian National University named L.N. Gumilev 
+Far Eastern Federal University 
+Altai State Technical University 
+Novosibirsk State Technical University 
+Surgut State University 
+Siberian Federal University 
+Russian-Armenian 
+Qafqaz University 
+Siberian State University of Telecommunication & Informatics 
+Free University of Tbilisi 
+National Research University of Electronic Tech. 
+Siberian Federal University 
+Siberian Federal University 
+Omsk State University 
+Tomsk Polytechnic University 
+International IT University 
+Novosibirsk State Technical University 
+Rubtsovsk Industrial Institute 
+Kazakh National University named Al-Farabi 
+Rybinsk State Aviation Technical University 
+Baku State University 
+Baikal State University of Economics and Law 
+Yaroslavl State University 
+Novosibirsk State Technical University 
+Irkutsk State University 
+Transbaikal State University 
+Kyrgyz Technical University 
+Kyrgyz Russian Slavic University 
+Khakas State University 
+Kemerovo State University 
+Kyrgyz Russian Slavic University 
+Krasnoyarsk State Pedagogical University 
+Novosibirsk State Pedagogical University 
+Irkutsk State University 
+Tomsk State University of Control Systems and Radioelectronics 
+Novosibirsk State Technical University 
+Qafqaz University 
+Baku State University 
+I. Javakhishvili Tbilisi State University 
+Azerbaijan Technical University 
+Saint Andrew the First-Called Georgian University of the Patriarchy of Georgia 
+American University of Armenia 
+ADA University 
+Georgian Technical University 
+I. Javakhishvili Tbilisi State University 
+Caucasus University 
+International Black Sea University 
+American University of Armenia 
+ADA University 
+Azerbaijan State Oil and Industry University 
+Batumi State University 
+American University of Armenia 
+Caucasus University 
+ADA University 
+Batumi State University 
+Georgian Technical University 
+American University - Central Asia 
+International ATATURK-ALATOO University 
+International IT University 
+Karaganda State Technical University 
+Kazakh National University named Al-Farabi 
+Kyrgyz -Turkey Manas University 
+Moscow State University - Tashkent 
+Moscow State University - Tashkent 
+Suleyman Demirel University 
+University of International Business 
+Westminster International University in Tashkent 
+Atyrau State University 
+D. Serikbayev East Kazakhstan State Technical University 
+Karaganda State Technical University 
+Mozhaisky Military Space Academy 
+Crimean Federal University 

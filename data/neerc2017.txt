@@ -1,0 +1,227 @@
+SPb State University;1;19860886;Ershov;Pyshkin;Sayranov
+SPb ITMO University;1;9;Belonogov;Smykalov;Zban
+Moscow Institute of Physics and Technology;1;8;Semenov;Smirnov;Zhuk
+SPb ITMO University;2;8;Budin;Putilin;Yakutov
+Ural Federal University;1;8;Borozdin;Kungurtsev;Leskov
+Perm State University;1;7;Kuchumov;Mayorov;Pryshchenko
+Moscow Institute of Physics and Technology;3;7;Belykh;Popovkin;Proskurin
+SPb State University;3;7;Makarov;Ryazanov;Savchenkov
+Belarusian SU of Information and Radioelectron.;1;6;Sobal;Valchok;Vistiazh
+Vilnius University;1;6;Jadenkus;Klimavi;ius
+Novosibirsk State University;1;6;Smirnov;Viktorov;Vishnevskiy
+SPb Academic University;2;6;Stepanov;Zhidkov;Zuev
+SPb Academic University;1;6;Bogomolov;Podguzov;Smirnov
+Latvia University;1;6;Kuznecovs;Pakalns;Zajakins
+Moscow Institute of Physics and Technology;4;6;Komendantyan;Kulkov;Machula
+Saratov State University;2;6;Kireev;Ripinen;Smirnov
+Yerevan State University;1;6;Harutyunyan;Mamikonyan;Sahakyan
+Perm State University;2;6;Lizunov;Tsaplin;Tsaplin
+Ural Federal University;2;6;Pivko;Samodelkin;Zuev
+Moscow Institute of Physics and Technology;2;5;Kalinichenko;Sergunin;Stepanov
+Samara National Research University;1;5;Bezrukov;Muravjev;Ponomarev
+Tomsk Polytechnic University;1;5;Golub;Kuzivanov;Vetrov
+Petrozavodsk State University;1;5;Ermishin;Filev;Starkov
+Saratov State University;1;5;Finiutin;Los;Sagunov
+Moscow State University;3;5;Bagrov;Kuplyakov;Lakhtanov
+Higher School of Economics;2;5;Aleksandrov;Kashin;Zetilov
+Moscow State University;1;5;Martynov;Olshanskii;Yagudin
+Moscow Aviation Institute;1;5;Korovin;Mingalev;Trofimov
+Belarusian State University;4;5;Hrechykha;Medyanikov;Natalevich
+Tartu University;1;5;Lill;Nisumaa;Unt
+SPb State University;2;5;Hulikau;Kulikov;Yuryev
+Rybinsk State Aviation Technical University;1;5;Bolotin;Kamenko;Skrynnik
+Latvia University;2;5;Civkulis;Klevickis;Larka
+Saratov State University;3;5;Androsov;Dalabaev;Petrov
+Moscow Institute of Physics and Technology;6;5;Murzin;Romanenko;Ulyanin
+SPb Academic University;3;5;Fedorov;Tukh;Yutman
+Immanuel Kant Baltic Federal University;1;5;Balobanov;Knizhnik;Mosyagin
+Higher School of Economics;3;5;Iskhakov;Khadaev;Lazarev
+Volgograd State Technical University;1;5;Nosov;Nozdrenkov;Penskoy
+Belarusian State University;1;5;Kulik;Sataneuski;Vilcheuski
+Moscow Aviation Institute;2;5;Bezrukov;Grigoriev;Mokin
+SPb ITMO University;4;5;Berinchik;Kisialiou;Korchagin
+SPb State University;4;5;Alekseev;Novikov;Petrov
+South Ural State University;1;5;Ashikhmin;Sapronov;Shaveinikov
+Izhevsk State Technical University;1;5;Bulatov;Filimonov;Tatarinov
+SPb State University;5;5;Bochkov;Gaevoy;Ginzburg
+Ural Federal University;3;5;Khanova;Mullabaev;Permyakov
+South Ural State University;2;5;Lyzhin;Petrov;Romass
+Free University of Tbilisi;1;4;Guliashvili;Skhirtladze;Tskhovrebov
+Belarusian State University;3;4;Kim;Lukyanov;Vityaz
+SPb ITMO University;3;4;Latyshev;Naumov;Turaev
+NU of Science and Technology MISiS;1;4;Lopatnikov;Lopukhov;Ovchinkin
+Far Eastern State Transportation University;1;4;Pisaniy;Seredkin;Usmanov
+Yaroslavl State University;1;4;Akhremenko;Krainov;Toropova
+Higher School of Economics;4;4;Mokriy;Posobin;Sabyanin
+Qafqaz University;1;4;Allahverdiyev;Mammadli;Mammadov
+Higher School of Economics;5;4;Fedorov;Gladkov;Zimin
+Kazakh-British Technical University;2;4;Aitzhan;Kenzhegaliyev;Mussinov
+Moscow Institute of Physics and Technology;5;4;Kalinin;Makarov;Mosyagin
+Orenburg State University;1;4;Larin;Moskaleva;Pilipenko
+Voronezh State University;2;4;Kuznetsov;Minaev;Perunov
+Belarusian SU of Information and Radioelectron.;2;4;Darashkevich;Razhkou;Tsiliupa
+American University of Armenia;1;4;Gevorgyan;Hayrapetyan;Mirakyan
+Kazakh-British Technical University;5;4;Tolegenov;Toremuratuly;Zhussupov
+International IT University;1;4;Kim;Satylkhanov;Sultan
+Voronezh State University;1;4;Nogikh;Skobaneva;Zemlyanuhin
+Belarusian State University;2;4;Shaftsialevich;Vasileuski;Zdanovich
+Ulyanovsk State Technical University;1;4;Gorshkov;Kashichkin;Kondratiev
+Astrakhan State University;1;4;Ilmensky;Kolesnikov;Sidorov
+International ATATURK-ALATOO University;1;4;Isaev;Kenzhaliev;Zhusubaliev
+Moscow State University;2;4;Chufarovskiy;Khalin;Ozhiganov
+Tyumen Industrial University;1;4;Artemov;Mambetov;Nevtyra
+Ural Federal University;5;4;Arapova;Bazun;Smirnov
+Tyumen State University;1;4;Avriskin;Ivanov;Yagudin
+Free University of Tbilisi;2;4;Abuladze;Pataraia;Sakhelashvili
+Crimean Federal University;1;4;Alekseeva;Bidanets;Voinovsky
+Higher School of Economics;1;4;Danilyuk;Kalashnikov;Svyatokum
+Ural Federal University;4;4;Ankudinov;Borzunov;Stikhin
+Udmurt State University;1;3;Korablinov;Nikitin;Sidorov
+Kazakh-British Technical University;1;3;Aman;Amanov;Nurmash
+Samara National Research University;2;3;Dimitrov;Fattakhov;Nugmanov
+Ufa State Aviation Technical University;1;3;Agishev;Fatkhiev;Surkov
+International Black Sea University;1;3;Mamaiashvili;Morchiladze;Svanidze
+Russian-Armenian;1;3;Slavonick;State;University
+Altai State Technical University;3;3;Lopatin;Renjov;Zyablitskiy
+NU of Science and Technology MISiS;2;3;Kualgin;Romanov;Tropin
+Kazakh-British Technical University;3;3;Bolatbekov;Amanov;Akhanov
+Yerevan State University;2;3;Gomktsyan;Mkrtumyan;Muradyan
+Russian-Armenian;1;3;Slavonick;State;University
+Kazakh-British Technical University;4;3;Bekbergen;Nezametdinov;Seydazimov
+Nazarbayev University;4;3;Ilyassov;Kabdygali;Manabayev
+Kazakhstan Branch of Moscow State University;1;3;Abaiuly;Kamalbekov;Zhuravskaya
+Nazarbayev University;1;3;Adilbekov;Aitzhanov;Kalmurzayev
+Vyatka State University;1;3;Dehterev;Prozorova;Vorobyev
+Moscow Engineering Physics Institute;1;3;Akimutin;Korotkikh;Romanov
+Nazarbayev University;2;3;Jubatyrov;Khagay;Orynkul
+Skolkovo I of Science and Technology;1;3;Belov;Burkov;Karpenko
+Saratov State University;4;3;Demina;Kurylev;Slutskiy
+Suleyman Demirel University;1;3;Seitov;Zharkyn;Zigangirov
+Kazakh National University named Al-Farabi;3;3;Baydaliyev;Salimkhan;Zholmukhanov
+Kaunas University of Technology;1;3;Garbonis;Naru;is
+Tomsk State University;1;3;Ryakin;Varlakov;Victor
+Vologda State University;1;3;Gerkulesov;Kukushkin;Nazarov
+Tomsk State University of Control Systems and Radioelectronics;1;3;Bogomolov;Bukreyev;Zakharov
+Kazan Federal University;1;3;Azimov;Savelyev;Zhumaniyozov
+Yerevan State University;3;3;Abrahamyan;Tamazyan;Topchyan
+Free University of Tbilisi;4;3;Bukhnikashvili;Popkhadze;Tsutskhashvili
+Belarusian SU of Information and Radioelectron.;3;3;Kulichok;Medunetski;Novikov
+South Ural State University;3;3;Basmanov;Mironov;Obukhov
+Buryat State University;1;3;Bykova;Filippov;Maltsev
+Izhevsk State Technical University;2;3;Maksimov;Poskrebyshev;Sebeldin
+Qafqaz University;2;3;Hajili;Kerimov;Klyestov
+Bauman Moscow State Technical University;1;3;Kudryavtsev;Rudnev;Zashikhin
+Siberian State University of Telecommunication & Informatics;1;3;Boldakov;Turtsev;Velichko
+Perm Higher School of Economics;1;2;Faletov;Gaynetdinova;Kuchev
+Alexander Pushkin Brest State University;1;2;Paliukhovich;Patsiomkin;Sobin
+Tomsk State University;2;2;Grudinin;Kotov;Zhukovskaja
+Ufa State Aviation Technical University;2;2;Kryukov;Manaev;Valiev
+Nizhny Novgorod State Technical University;1;2;Kazantaev;Neimuschev;Tikhonov
+Omsk State University;2;2;Krivosheeva;Sakhno;Shatov
+Novosibirsk State University;4;2;Arkhipov;Matveev;Permyashkin
+Kazan Federal University;2;2;Balakirev;Gazizov;Nigmatullin
+Irkutsk State Technical University;1;2;Chekan;Fefelov;Skorobogatov
+French-Georgian Institute;1;2;Gozalishvili;Rekhviashvili;Sultanishvili
+North-Eastern Federal University;1;2;Dobretsov;Khokholov;Petrov
+Mordovian State University;1;2;Korovin;Kuznetsov;Nemchinova
+Chelyabinsk State University;1;2;Anfalov;Anfalova;Voronin
+Samara National Research University;3;2;Grinina;Murtazin;Rykov
+Eurasian National University named L.N. Gumilev;2;2;Karakozha;Muslim;Yessenbayev
+Suleyman Demirel University;4;2;Kabirov;Nadyrmagambet;Orazgalieva
+Altai State Technical University;2;2;Galkin;Kozlov;Kozlov
+Free University of Tbilisi;5;2;Donadze;Khaduri;Magaltadze
+Altai State Technical University;4;2;Babushkin;Dyadushenko;Nekrasov
+Southern FU Institute of CompTech and InfoSec;1;2;Manych;Minasyan;Mitina
+Nazarbayev University;3;2;Mademikhanov;Muryshkin;Toktasynov
+I. Javakhishvili Tbilisi State University;3;2;Chelidze;Gobronidze;Modrekiladze
+Novosibirsk State University;3;2;Litvinov;Sklyarov;Skresanov
+International IT University;3;2;Abdysalam;Bakhoduri;Chesnokov
+Izhevsk State Technical University;3;2;Gorodilov;Musin;Naymushin
+Tomsk Polytechnic University;2;2;Iovlev;Kuznetsova;Maksimova
+Tomsk Polytechnic University;4;2;Bakulin;Komarov;Nesterenko
+Kutaisi State University;1;2;Butskhrikidze;Gogsadze;Khantadze
+Buryat State University;2;2;Badagarov;Guslyakov;Tsydypova
+American University - Central Asia;1;2;Derkenbaev;Kim;Kydyraliev
+East-Siberian State Technological University;1;2;Bolsoboev;Timofeev;Zhigdorzhiev
+Far Eastern Federal University;1;2;Kuznetcov;Miroedov;Zubarev
+Eurasian National University named L.N. Gumilev;1;2;Duisenbayev;Nurbek;Sultan
+I. Javakhishvili Tbilisi State University;2;2;Babunashvili;Bukuri;Gachechiladze
+Moscow State University - Tashkent;1;2;Akhmedshin;Kosimov;Shin
+Orel State University;1;2;Baranov;Strygin;Vorobjov
+South Ural State University;4;2;Belyaev;Klopov;Shurunov
+Novosibirsk State University;2;2;Baranov;Karpovsky;Naumenko
+Petrozavodsk State University;2;2;Alkin;Ermolin;Titov
+Suleyman Demirel University;2;2;Aimakov;Akhmetov;Damiyev
+Crimean Federal University;3;2;Dudko;Opryshko;Saada
+Eurasian National University named L.N. Gumilev;3;1;Abdilmanov;Zhaksylyk;Zhussupov
+Far Eastern Federal University;2;1;Danilov;Shchurov;Zhikhareva
+Altai State Technical University;1;1;Ananev;Fast;Lozhkina
+Novosibirsk State Technical University;2;1;Katunov;Potapeyko;Sitnikov
+Surgut State University;1;1;Bobrovskaya;Derkach;Yakovlev
+Siberian Federal University;3;1;Samodelov;Shapovalov;Yovenko
+Russian-Armenian;1;1;Slavonick;State;University
+Qafqaz University;4;1;Abbasov;Aghayev;Murtuzaliyev
+Siberian State University of Telecommunication & Informatics;2;1;Dubinin;Pletyuhin;Sakharov
+Free University of Tbilisi;3;1;Azizyan;Nishnianidze;Silagadze
+National Research University of Electronic Tech.;1;1;Kalyagina;Kolesnikova;Terentyev
+Siberian Federal University;2;1;Melnikov;Platonov;Zelenin
+Siberian Federal University;1;1;Gritsiv;Halturin;Levanyuk
+Omsk State University;1;1;Evsyukov;Kudyk;Valchuk
+Tomsk Polytechnic University;3;1;Babichev;Chursina;Mnatsakanyan
+International IT University;2;1;Auganov;Dauirkhan;Oral
+Novosibirsk State Technical University;1;1;Ilinykh;Kunts;Prokopyev
+Rubtsovsk Industrial Institute;1;1;Kopylova;Lunev;Nagih
+Kazakh National University named Al-Farabi;2;1;Dossanov;Kadyrbek;Mambetniyazov
+Rybinsk State Aviation Technical University;2;1;Kozhevnikov;Obolensky;Smirnov
+Baku State University;1;1;Badalov;Mirzayev;Sofiyev
+Baikal State University of Economics and Law;1;1;Fontosh;Golyandin;Savin
+Yaroslavl State University;2;1;Fedulov;Lyutenkov;Maslenikov
+Novosibirsk State Technical University;4;1;Kozhekin;Sypko;Utyuganov
+Irkutsk State University;1;1;Kondakov;Latyshev;Manich
+Transbaikal State University;1;1;Baklanov;Khazagarov;Yatsenko
+Kyrgyz Technical University;1;1;Bolotbek;Askar;Danil
+Kyrgyz Russian Slavic University;1;1;Akparaliev;Mustafin;Sapozhnikov
+Khakas State University;1;1;Dron;Tumoyakov;Zemlyanikin
+Kemerovo State University;1;1;Bashkirova;Chernousov;Yuskeev
+Kyrgyz Russian Slavic University;2;1;Abdirazakov;Aldaiarov;Bubnov
+Krasnoyarsk State Pedagogical University;1;1;Gilyazov;Stankovskii;Strelnikova
+Novosibirsk State Pedagogical University;1;1;Rozov;Semenova;Taraskin
+Irkutsk State University;2;1;Antonov;Chumachenko;Sosnerzh
+Tomsk State University of Control Systems and Radioelectronics;2;1;Biryukova;Reshetov;Skryl
+Novosibirsk State Technical University;3;1;Kochneva;Koptev;Makarov
+Qafqaz University;3;1;Ashrafov;Suleymanli;Yagublu
+Baku State University;2;1;Mammadov;Nabiyev;Talibov
+I. Javakhishvili Tbilisi State University;1;1;Salia;Svanadze;Zabakhidze
+Azerbaijan Technical University;1;1;Agabeyli;Hajiyev;Maharramli
+Saint Andrew the First-Called Georgian University of the Patriarchy of Georgia;1;1;Didbaridze;Mikautidze;Tsotsoria
+American University of Armenia;2;1;Ashughyan;Hayruni;Martirosyan
+ADA University;4;1;Isgandarli;Ismikhanov;Rahimli
+Georgian Technical University;2;1;Shinjikashvili;Sirbiladze;Varamashvili
+I. Javakhishvili Tbilisi State University;4;1;Doliashvili;Ghughunishvili;Sepiashvili
+Caucasus University;2;1;Jijelava;Maruashvili;Pacacia
+International Black Sea University;2;1;Khagulashvili;Merabov;Tskhvediani
+American University of Armenia;3;1;Margaryan;Muradyan;Muradyan
+ADA University;2;1;Gasimov;Hasanov;Mustafali
+Azerbaijan State Oil and Industry University;1;1;Heydarli;Ismatulin;Suleymanov
+Batumi State University;1;1;Beria;Khalvashi;Khozrevanidze
+American University of Armenia;4;1;Arakelyan;Hakobyan;Serobyan
+Caucasus University;1;1;Chelidze;chkhetiani;kakhiani
+ADA University;1;1;Farzaliyev;Gadirzada;Huseynzade
+Batumi State University;2;1;Giorgadze;Kakhidze;Meskhidze
+Georgian Technical University;1;1;Arveladze;Gasanov;Madzgarashvili
+American University - Central Asia;2;1;Akramov;Khasanza;Talantbekov
+International ATATURK-ALATOO University;2;1;Akylbek;Kamil;Omurbek
+International IT University;4;1;Abdrakhman;Kabdoldin;Mukhtarkhanuly
+Karaganda State Technical University;1;1;Daukishov;Frolov;Kim
+Kazakh National University named Al-Farabi;1;1;Kassymbek;Mustafin;Torekul
+Kyrgyz -Turkey Manas University;1;1;Alybaev;Kubanychbekov;Kudaiberdi
+Moscow State University - Tashkent;2;1;Karaev;Komilova;Pak
+Moscow State University - Tashkent;3;1;Kudratullayev;Makhsudov;Suyunbekova
+Suleyman Demirel University;3;1;Mussin;Omar;Tursynbek
+University of International Business;1;1;Karkazan;Zhigmytov;Zhuman
+Westminster International University in Tashkent;1;1;Ikramov;Saidkhodjaev;Umidov
+Atyrau State University;1;1;Ergozhieva;Kabidenova;Zhanbolayev
+D. Serikbayev East Kazakhstan State Technical University;1;1;Aulbekov;Kolotvinov;Shakenov
+Karaganda State Technical University;2;1;Marushka;Omar;Velinskiy
+Mozhaisky Military Space Academy;1;1;Ilatovskiy;Kravchenko;Vladislav
+Crimean Federal University;2;1;Berezin;Farikov;Shtanko
